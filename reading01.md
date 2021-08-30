@@ -44,6 +44,16 @@
 
 - It stands for "Properties" and is used for passing data from one component to another
 
+- Props is a special keyword in React
+
 ### How are Props used in React?
 
-- 
+- Passing data from one component to another
+
+### What is the flow of Props?
+
+- Passed in a uni-directional flow from parent to child
+
+- The data is read-only so the parent should not be changed by the child
+
+#### All information read and used from (https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) and (https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
