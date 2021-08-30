@@ -56,12 +56,12 @@
 
 - The data is read-only so the parent should not be changed by the child
 
-#### All information read and used from (https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) and (https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
+#### All information read and used from (/https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) and (/https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
 
 #### Additional readings
-- (https://reactjs.org/tutorial/tutorial.html)
-- (https://reactjs.org/docs/hello-world.html)
-- (https://reactjs.org/docs/introducing-jsx.html)
-- (https://reactjs.org/docs/rendering-elements.html)
-- (https://reactjs.org/docs/components-and-props.html)
+- (/https://reactjs.org/tutorial/tutorial.html)
+- (/https://reactjs.org/docs/hello-world.html)
+- (/https://reactjs.org/docs/introducing-jsx.html)
+- (/https://reactjs.org/docs/rendering-elements.html)
+- (/https://reactjs.org/docs/components-and-props.html)
