@@ -21,4 +21,4 @@
 
 - With JSX you pass a function as an event handler and not a string
 
-### Some information taken from websites listed above
+### Some information taken from websites linked above
