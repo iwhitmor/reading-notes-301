@@ -64,4 +64,4 @@
 * [Axios Docs](https://www.npmjs.com/package/axios)
 * [MDN async and await](https://www.npmjs.com/package/axios)
 
-### Some information taken from the websites available
+### Some information taken from the websites listed above
