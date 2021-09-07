@@ -9,3 +9,5 @@ Here are all of my reading notes for Code 301. Click the links below to go to my
 * Reading 3: [Passing Functions as Props](/reading03.md)
 * Reading 4: [React and Forms](/reading04.md)
 * Reading 5: [Thinking in React](/reading05.md)
+* Reading 6: [Node.JS](/reading06.md)
+* Reading 7: [](/reading07.md)
