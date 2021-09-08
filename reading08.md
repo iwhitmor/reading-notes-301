@@ -44,3 +44,14 @@
 * What status code does a successful DELETE request return?
 
   * Returns 204(NO CONTENT) or returns 400(BAD REQUEST)
+
+## Additional Reading Material
+
+* [RegExr](https://regexr.com/)
+
+* [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+
+* [Regex 101](https://regex101.com/)
+
+### Some information taken from the websites listed above
+
