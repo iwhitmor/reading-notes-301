@@ -15,3 +15,4 @@ Here are all of my reading notes for Code 301. Click the links below to go to my
 * Reading 9: [Functional Programming](/reading09.md)
 * Reading 10: [In Memory Storage](/reading10.md)
 * Reading 11: [Mongo and Mongoose](/reading11.md)
+* Reading 12: [CRUD](/reading12.md)
